@@ -29,7 +29,7 @@ module.exports = function(environment) {
       providers: {
         'github-oauth2': {
           scope: 'gist',
-          apiKey: '2b84ab967ef8266ca0dc'
+          apiKey: ''
         }
       }
     }
@@ -68,7 +68,7 @@ module.exports = function(environment) {
       providers: {
         'github-oauth2': {
           scope: 'gist',
-          apiKey: '3df37009938c0790d952'
+          apiKey: ''
         }
       }
     };
@@ -83,7 +83,7 @@ module.exports = function(environment) {
       providers: {
         'github-oauth2': {
           scope: 'gist',
-          apiKey: '085e033505c9d26ec27a'
+          apiKey: ''
         }
       }
     };
